@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(39, 71, 166);
+}
+
+body { 
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(0, 0, 0)
+  }
+
+  .my{background-image: url(https://i.pinimg.com/564x/1a/a0/e1/1aa0e14d5f18df659316e6b4dc03fc8d.jpg);}
+
+.favourite{background-image: url(https://i.pinimg.com/564x/1a/a0/e1/1aa0e14d5f18df659316e6b4dc03fc8d.jpg);}
+
+.all{background-image: url(https://i.pinimg.com/564x/1a/a0/e1/1aa0e14d5f18df659316e6b4dc03fc8d.jpg);}
+  
+  .fav{background-image: url(https://i.pinimg.com/564x/1a/a0/e1/1aa0e14d5f18df659316e6b4dc03fc8d.jpg);}
+
+  a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+  }
+
+  menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
